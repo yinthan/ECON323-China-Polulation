@@ -1,4 +1,4 @@
-Region,Male,Female,sex ratio,Birth_Rate
+Region,Male,Female,sex_ratio,Birth_Rate
 Beijing,51.14,48.86,104.65,8.12
 Tianjin,51.53,48.47,106.31,6.73
 Hebei,50.50,49.50,102.02,10.83
